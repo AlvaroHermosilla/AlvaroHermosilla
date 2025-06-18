@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alvaro Hermosilla Sanchez de Medina</h1>
 <h3 align="center">A graduated physicist from Córdoba University, Spain interested in AI development and DL</h3>
 
-- 📫 How to reach me **alvaroh98@gmail.com**
+- 📫 How to reach me **alvarohermosilla95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
